@@ -1,7 +1,7 @@
 # Vehicle Registration Analytics Dashboard
 
 🎥 **Walkthrough Video**  
-[![Watch the demo](<img width="1364" height="609" alt="image" src="https://github.com/user-attachments/assets/49c04f50-847a-41bf-924a-a38cc301c042" />)
+[!(<img width="1364" height="609" alt="image" src="https://github.com/user-attachments/assets/49c04f50-847a-41bf-924a-a38cc301c042" />)
 ](https://youtu.be/TKqCtzP02uA)
 
 An interactive Streamlit dashboard for analyzing vehicle registration data with an investor's perspective, built for backend developer internship assignment.
